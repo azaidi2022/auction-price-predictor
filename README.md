@@ -101,3 +101,11 @@ git clone https://github.com/azaidi2022/auction-price-predictor.git
 cd auction-price-predictor
 pip install -r requirements.txt
 streamlit run app/streamlit_app.py
+
+
+## Demo
+
+![App Screenshot](assets/screenshot.png)
+
+
+![App Screenshot](assets/Screeenshot.png)
