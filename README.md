@@ -94,6 +94,14 @@ auction-price-predictor/
 
 ---
 
+
+## Demo
+
+![App Screenshot](assets/screenshot.png)
+
+
+![App Screenshot](assets/Screeenshot.png)
+
 ## How to Run
 
 ```bash
@@ -103,9 +111,4 @@ pip install -r requirements.txt
 streamlit run app/streamlit_app.py
 
 
-## Demo
 
-![App Screenshot](assets/screenshot.png)
-
-
-![App Screenshot](assets/Screeenshot.png)
