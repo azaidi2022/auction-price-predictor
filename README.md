@@ -102,6 +102,8 @@ auction-price-predictor/
 
 ![App Screenshot](assets/screenshot.png)
 
+![App Screenshot](assets/screeenshot.png)
+
 ## How to Run
 
 ```bash
