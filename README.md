@@ -97,10 +97,10 @@ auction-price-predictor/
 
 ## Demo
 
-![App Screenshot](assets/screenshot.png)
-
 
 ![App Screenshot](assets/Screeenshot.png)
+
+![App Screenshot](assets/screenshot.png)
 
 ## How to Run
 
